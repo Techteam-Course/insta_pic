@@ -13,3 +13,4 @@ $ ./manage.py runserver
 ```
 
 - [x] Daito Hirose
+- [x] Keitaro Oguri
